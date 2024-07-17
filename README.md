@@ -1,2 +1,2 @@
 # scripts
-Demo per a la classe de ASIX2
+Col·lecció d'scripts
