@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # Archivo donde se guardarán las reglas DNAT
 CONFIG_FILE="/etc/iptables/rules.v4"
 
